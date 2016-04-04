@@ -1,0 +1,17 @@
+/*
+Theme Name: wp_proaject_thm
+Theme URI: github.com/vickdev2
+Author: Arpan Gupta
+Author URI: github.com/vickdev2
+Description: This is blank theme with magical options.
+Version: 1.0
+
+*/
+
+body {
+	font-family: Verdana, Arial, sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
